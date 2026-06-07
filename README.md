@@ -63,7 +63,7 @@ This project was completed as part of a Sales Data Analysis Internship Task to d
 GitHub Repository
 
 Project Repository:
-https://github.com/your-github-username/sales-data-analysis
+https://github.com/sneha8131/Sales-Data-Analysis
 
 Author
 
