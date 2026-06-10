@@ -26,6 +26,10 @@ Project Outcome
 
 The project provides actionable insights into sales performance, identifies high-performing products and regions, and supports data-driven decision-making through effective data analysis and visualization.
 
+GitHub Repository
+
+Project Repository: https://github.com/sneha8131/Sales-Data-Analysis
+
 Author
 
 Sneha Sonkusare
