@@ -1,69 +1,30 @@
 Project Overview
 
-This project is an interactive Sales Data Analysis Dashboard developed using Power BI and Python. The dashboard analyzes sales data to provide meaningful insights into business performance, revenue trends, product sales, customer behavior, and regional performance.
+The Sales Data Analysis Project is a Python-based data analytics project designed to analyze sales data and extract valuable business insights. Using Pandas, NumPy, Matplotlib, and Seaborn, the project performs data cleaning, exploratory data analysis, sales KPI calculations, and visualization of sales performance across products and regions.
 
-The dashboard helps organizations monitor key sales KPIs, identify top-performing products and regions, track revenue growth, analyze customer purchasing patterns, and support strategic business decisions through data-driven insights.
+The analysis focuses on key business metrics such as Total Sales, Average Sales, Maximum and Minimum Sales, category-wise performance, region-wise sales distribution, and top-performing products. Various charts and visualizations are used to identify trends, patterns, and opportunities for business growth.
 
-Features
-Total Sales, Profit & Quantity Analysis
-Product Category Performance Analysis
+This project demonstrates practical skills in data cleaning, data analysis, data visualization, and business reporting, helping organizations make informed decisions based on sales performance.
+
+Key Features
+Data Cleaning and Preprocessing
+Sales KPI Analysis
+Category-wise Sales Analysis
 Region-wise Sales Analysis
-Customer Sales Analysis
-Revenue & Sales Trend Tracking
-Top-Selling Products Identification
-Sales Growth Performance Monitoring
-Interactive Filters & Slicers
-Business KPI Dashboard
-Dynamic Data Visualizations
+Top Performing Products Identification
+Sales Trend Analysis
+Bar Charts, Pie Charts, and Trend Visualizations
+Business Insights Generation
 Tools & Technologies Used
-Power BI
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
-DAX
-Power Query
-Data Visualization
-Business Intelligence
-Dataset Information
+Jupyter Notebook
+Project Outcome
 
-The dataset contains:
-
-Sales Transactions Data
-Product Information
-Customer Data
-Regional Sales Information
-Revenue Metrics
-Order Details
-Quantity Sold Data
-Sales Performance Indicators
-Dashboard Insights
-
-The dashboard helps in:
-
-Identifying top-performing products and categories
-Tracking sales and revenue growth trends
-Monitoring regional sales performance
-Understanding customer purchasing behavior
-Analyzing product-wise revenue contribution
-Identifying high-value customers
-Supporting business forecasting and planning
-Improving decision-making through actionable insights
-Project Files
-Sales Data Analysis Dashboard (.pbix)
-Sales Dataset (.csv)
-Dashboard Screenshot (.png)
-Python Analysis Notebook (.ipynb)
-Project Documentation
-Internship Project
-
-This project was completed as part of a Sales Data Analysis Internship Task to demonstrate skills in Data Analysis, Business Intelligence, Dashboard Development, Data Visualization, and Business Reporting.
-
-GitHub Repository
-
-Project Repository:
-https://github.com/sneha8131/Sales-Data-Analysis
+The project provides actionable insights into sales performance, identifies high-performing products and regions, and supports data-driven decision-making through effective data analysis and visualization.
 
 Author
 
